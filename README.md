@@ -1,11 +1,1 @@
-# private repos map  
-[问卷星API数据拉取](https://github.com/nenevva/wjx)  
-[企业微信状态审校](https://github.com/nenevva/WeComRevise)  
-[HR批量发起入职流程](https://github.com/nenevva/HREntry)  
-[企业邮箱弱密码审校](https://github.com/nenevva/exmail)  
-[MD5加密接口](https://github.com/nenevva/Encrypt2MD5)  
-[JSON树生成](https://github.com/nenevva/table2json)  
-[企业邮箱弱密码修改接口](https://github.com/nenevva/ExmailStrongPassword)  
-[表格图章去除+阿里云识别](https://github.com/nenevva/AliyunOCR)  
-阿里云快速短信接口 (Gitlab)  
-Token验证接口 (Gitlab)
+hello world
